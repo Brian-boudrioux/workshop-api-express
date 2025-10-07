@@ -10,7 +10,7 @@ defaults:
       layout: "default"
 
 style: dev
-title: Atelier : CRUD basique avec Express (sans base de données)  
+title: Atelier - CRUD basique avec Express (sans base de données)  
 description: ""
 show_clone: false
 show_toc: true
